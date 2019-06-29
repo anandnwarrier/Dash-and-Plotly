@@ -1,6 +1,7 @@
 [Plotly](https://plot.ly/python/) is a Python open source graphing libraray created by [Plotly](https://plot.ly/)
 
 Python version used: 3.7.3
+
 Requirements:-
 1. plolty==3.10.0
 2. numpy==1.16.3
