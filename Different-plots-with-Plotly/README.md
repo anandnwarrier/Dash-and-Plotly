@@ -2,9 +2,9 @@
 
 Python version used: 3.7.3
 Requirements:-
-  plolty==3.10.0
-  numpy==1.16.3
-  pandas==0.24.2
+1. plolty==3.10.0
+2. numpy==1.16.3
+3. pandas==0.24.2
 
 Instructions to create the plots:-
 1. Clone the repository to your local machine (or Unzip the files to a folder after downloading the .zip file of tis repository).
